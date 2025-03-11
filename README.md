@@ -100,7 +100,7 @@ El estudio se centrará en dos tipos de usuarios: aquellos que buscan comprar pr
 
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  ![](P1/1e.Usability-Review/UsabilityReview.pdf)
+>>> - Enlace al documento:  ![Usability_Review](P1/1e.Usability-Review/UsabilityReview.pdf)
 
 >>> - URL y Valoración numérica obtenida: 64 - Moderate
 >>> - Comentario sobre la revisión:  La web cumple con los requisitos básicos de usabilidad y accesibilidad. Aunque se han identificado algunos aspectos mejorables, estos están más relacionados con la optimización de la navegación y la personalización de la experiencia. Creemos que la incorporación de más filtros de búsqueda y un sistema de inicio de sesión más amplio ayudaría a mejorar la interacción del usuario y facilitar el acceso a los productos y cursos de manera más intuitiva.
