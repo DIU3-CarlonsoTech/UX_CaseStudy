@@ -44,12 +44,27 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
+Kerarqueo es una plataforma digital dedicada a la comercialización de productos artesanales sostenibles y reciclados. En este estudio, se analizará su usabilidad para mejorar la experiencia del usuario y optimizar la interacción con la plataforma. La evaluación se realizará comparando Kerarqueo con sitios similares como Etsy y Amazon Handmade, identificando oportunidades de mejora en navegación, accesibilidad y proceso de compra.
+El estudio se enfocará en dos perfiles de usuario: compradores interesados en productos sostenibles e interesados en aprender mediante algún curso. Para comprender mejor sus necesidades, se emplearán métodos de investigación cualitativa y cuantitativa, como entrevistas, encuestas y análisis de comportamiento del usuario. También se evaluará la accesibilidad en distintos dispositivos y navegadores.
+La estrategia de análisis combinará observación directa, pruebas de usabilidad con usuarios reales y una evaluación heurística basada en los principios de Nielsen. Con este enfoque, se espera identificar problemas clave y proponer mejoras prácticas para optimizar la plataforma, aumentar la satisfacción del usuario y validar suposiciones de diseño con datos reales.
+
+Para evaluar la usabilidad y la experiencia de usuario de Kerarqueo, se ha realizado un análisis comparativo con dos plataformas similares: Etsy y Amazon Handmade. Ambas ofrecen productos artesanales y cuentan con una base sólida de usuarios, por lo que sirven como referencia para detectar oportunidades de mejora en Kerarqueo.
+
+
 >>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+
+Se ha seleccionado Kerarqueo, una plataforma dedicada a la venta de productos artesanales sostenibles y reciclados. Para analizar su usabilidad y mejorar la experiencia de usuario, se ha realizado una comparación con dos plataformas similares: Etsy y Amazon Handmade. Estos competidores han sido elegidos por su relevancia en el sector y su reconocimiento en el mercado global.
+
+![imagen](https://github.com/user-attachments/assets/154ed893-b288-4c55-a5e8-03182352dfbb)
+
+**Justificación de la Elección de Kerarqueo**
+Kerarqueo ha sido seleccionado porque su propuesta de valor se centra en la sostenibilidad y el comercio artesanal, diferenciándose de sus competidores. Sin embargo, en términos de usabilidad, presenta áreas de mejora en accesibilidad, optimización móvil y categorización de productos. Comparado con Etsy y Amazon Handmade, que tienen sistemas de navegación y experiencia de compra más desarrollados, Kerarqueo necesita implementar estrategias de mejora para optimizar la conversión de visitantes en compradores.
+
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
@@ -58,12 +73,23 @@ Miembros:
 ![Método UX](img/Persona.png) 
 -----
 
+![imagen](https://github.com/user-attachments/assets/36a527b4-f883-4e15-adb5-532c6efb2165)
+
+![imagen](https://github.com/user-attachments/assets/d6ed794a-f031-432a-ab88-8fbabc6df9f7)
+
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+
+El estudio se centrará en dos tipos de usuarios: aquellos que buscan comprar productos sostenibles y quienes desean aprender a través de cursos. Para identificar mejor sus necesidades, se utilizarán técnicas de investigación tanto cualitativas como cuantitativas, incluyendo entrevistas, encuestas y análisis del comportamiento del usuario. Además, se analizará la accesibilidad en diferentes dispositivos y navegadores.
+![imagen](https://github.com/user-attachments/assets/0f71804a-c0c9-4f0a-b779-f76e4ee1f056)
+
+
+![imagen](https://github.com/user-attachments/assets/bead1d5c-c8e6-4c16-8cea-130d90fc744f)
+
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
@@ -72,10 +98,12 @@ Miembros:
 ![Método UX](img/usabilityReview.png) 
 ----
 
+
+
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+>>> - URL y Valoración numérica obtenida: 64 - Moderate
+>>> - Comentario sobre la revisión:  La web cumple con los requisitos básicos de usabilidad y accesibilidad. Aunque se han identificado algunos aspectos mejorables, estos están más relacionados con la optimización de la navegación y la personalización de la experiencia. Creemos que la incorporación de más filtros de búsqueda y un sistema de inicio de sesión más amplio ayudaría a mejorar la interacción del usuario y facilitar el acceso a los productos y cursos de manera más intuitiva.
 
 <br>
 
