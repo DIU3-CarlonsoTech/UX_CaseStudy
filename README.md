@@ -98,7 +98,7 @@ El estudio se centrará en dos tipos de usuarios: aquellos que buscan comprar pr
 ![Método UX](img/usabilityReview.png) 
 ----
 
-
+![document](P1/1e.Usability-Review/UsabilityReview.pdf)
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
