@@ -63,7 +63,11 @@ Se ha seleccionado Kerarqueo, una plataforma dedicada a la venta de productos ar
 ![imagen](https://github.com/user-attachments/assets/154ed893-b288-4c55-a5e8-03182352dfbb)
 
 **Justificación de la Elección de Kerarqueo**
-Kerarqueo ha sido seleccionado porque su propuesta de valor se centra en la sostenibilidad y el comercio artesanal, diferenciándose de sus competidores. Sin embargo, en términos de usabilidad, presenta áreas de mejora en accesibilidad, optimización móvil y categorización de productos. Comparado con Etsy y Amazon Handmade, que tienen sistemas de navegación y experiencia de compra más desarrollados, Kerarqueo necesita implementar estrategias de mejora para optimizar la conversión de visitantes en compradores.
+Kerarqueo ha sido seleccionado debido a su enfoque en la sostenibilidad y el comercio artesanal, lo que lo diferencia de otras plataformas más generalistas como Etsy y Amazon Handmade. Su propuesta de valor está alineada con una tendencia creciente de consumidores que buscan productos hechos a mano con un impacto ambiental reducido. Esta filosofía representa una ventaja competitiva clave en un mercado donde la autenticidad y la responsabilidad social son cada vez más valoradas.
+
+Sin embargo, en términos de usabilidad y experiencia de usuario, Kerarqueo presenta áreas de mejora significativas. Su sistema de navegación no es tan intuitivo como el de sus competidores, lo que puede dificultar la exploración y descubrimiento de productos. Además, la falta de una estructura clara en la categorización de los artículos puede afectar la accesibilidad y la facilidad de búsqueda para los usuarios.
+
+Otro aspecto a considerar es la optimización móvil, donde Kerarqueo aún no está completamente adaptado a dispositivos móviles, lo que limita su alcance y la conversión de visitantes en compradores. Comparado con Etsy y Amazon Handmade, que han desarrollado sistemas robustos en experiencia de compra y soporte al vendedor, Kerarqueo necesita implementar mejoras estratégicas para ofrecer un servicio más competitivo y atractivo para artesanos y clientes.
 
 
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
@@ -73,9 +77,12 @@ Kerarqueo ha sido seleccionado porque su propuesta de valor se centra en la sost
 ![Método UX](img/Persona.png) 
 -----
 
+Hemos escogido a un agricultor y a una influencer para analizar la web porque representan perfiles con necesidades, conocimientos digitales y expectativas muy distintas, lo que permite evaluar la accesibilidad y usabilidad desde perspectivas contrastadas.
+
 ![imagen](https://github.com/user-attachments/assets/36a527b4-f883-4e15-adb5-532c6efb2165)
 
 ![imagen](https://github.com/user-attachments/assets/d6ed794a-f031-432a-ab88-8fbabc6df9f7)
+
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
