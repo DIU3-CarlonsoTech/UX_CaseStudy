@@ -15,6 +15,8 @@ Proyecto: ArqueoCraft
 
 **Propuesta de Valor: **ArqueoCraft ofrece un espacio accesible para aprender y explorar el arte de la cerámica con un enfoque arqueológico. Desde principiantes hasta expertos, los usuarios podrán acceder a recursos educativos, comprar materiales adecuados para sus proyectos y compartir su progreso con una comunidad apasionada. Nuestro objetivo es digitalizar el conocimiento artesanal, asegurando su difusión y evolución a través de la tecnología.
 
+Este proyecto ayudaría a solucionar problemas detectados en Kararqueo, como la falta de accesibilidad a conocimientos especializados, la escasa personalización de la experiencia de usuario y la dificultad de encontrar materiales específicos.
+
 Logotipo: 
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
