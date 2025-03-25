@@ -5,15 +5,15 @@ Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraf
 
 Grupo: DIU3.CarlonsoTech  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 25/03/2025
 
-Proyecto: 
+Proyecto: ArqueoCraft
 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
-Descripción: 
+**Descripción**: ArqueoCraft es una plataforma digital que conecta a entusiastas de la cerámica y la arqueología con expertos en la materia. A través de cursos en línea, tutoriales interactivos y una tienda de materiales especializados, buscamos fomentar el aprendizaje práctico y la preservación de técnicas tradicionales y modernas de cerámica.
 
->>> Describa la idea de su producto en la práctica 2 
+**Propuesta de Valor: **ArqueoCraft ofrece un espacio accesible para aprender y explorar el arte de la cerámica con un enfoque arqueológico. Desde principiantes hasta expertos, los usuarios podrán acceder a recursos educativos, comprar materiales adecuados para sus proyectos y compartir su progreso con una comunidad apasionada. Nuestro objetivo es digitalizar el conocimiento artesanal, asegurando su difusión y evolución a través de la tecnología.
 
 Logotipo: 
 
