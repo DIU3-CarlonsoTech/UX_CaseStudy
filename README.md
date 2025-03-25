@@ -141,7 +141,7 @@ El estudio se centrará en dos tipos de usuarios: aquellos que buscan comprar pr
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
-
+El proyecto consiste en el desarrollo de una plataforma digital que mejore la experiencia y usabilidad del sitio web Kerarqueo, optimizando su interfaz y funcionalidades para facilitar el acceso a contenido arqueológico. A partir del análisis de usabilidad realizado en la Práctica 1, se han identificado áreas de mejora en la navegación, accesibilidad y presentación de la información. La propuesta busca hacer la plataforma más intuitiva, permitiendo a los usuarios explorar recursos arqueológicos de manera eficiente, interactuar con el contenido de forma más atractiva y mejorar la difusión del conocimiento en esta área.
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
