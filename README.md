@@ -7,15 +7,13 @@ Grupo: DIU3.CarlonsoTech  Curso: 2024/25
 
 Actualizado: 25/03/2025
 
-Proyecto: ArqueoCraft
+Proyecto: ArqueoBid
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Decida el nombre corto de su propuesta en la práctica 2
 
-**Descripción**: ArqueoCraft es una plataforma digital que conecta a entusiastas de la cerámica y la arqueología con expertos en la materia. A través de cursos en línea, tutoriales interactivos y una tienda de materiales especializados, buscamos fomentar el aprendizaje práctico y la preservación de técnicas tradicionales y modernas de cerámica.
+El proyecto ArqueoBid añadirá un sistema de subastas a Kerarqueo, permitiendo a compradores pujar por piezas arqueológicas y a vendedores gestionarlas. La propuesta optimiza la navegación y accesibilidad, facilitando subastas en tiempo real y mejorando la experiencia de compra-venta. Con esta iniciativa, se busca fomentar la difusión y preservación del patrimonio arqueológico en un entorno digital especializado.
 
-**Propuesta de Valor:** ArqueoCraft ofrece un espacio accesible para aprender y explorar el arte de la cerámica con un enfoque arqueológico. Desde principiantes hasta expertos, los usuarios podrán acceder a recursos educativos, comprar materiales adecuados para sus proyectos y compartir su progreso con una comunidad apasionada. Nuestro objetivo es digitalizar el conocimiento artesanal, asegurando su difusión y evolución a través de la tecnología.
 
-Este proyecto ayudaría a solucionar problemas detectados en Kararqueo, como la falta de accesibilidad a conocimientos especializados, la escasa personalización de la experiencia de usuario y la dificultad de encontrar materiales específicos.
 
 Logotipo: 
 
