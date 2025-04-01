@@ -17,7 +17,7 @@ El proyecto ArqueoBid añadirá un sistema de subastas a Kerarqueo, permitiendo 
 
 Logotipo: 
 
-![](P2/logoPujas.jpeg)
+![](P2/logoPujas.jpg)
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
