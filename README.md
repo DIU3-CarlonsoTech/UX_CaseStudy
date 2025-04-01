@@ -136,7 +136,7 @@ El estudio se centrará en dos tipos de usuarios: aquellos que buscan comprar pr
 
 
 ### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
+![](P2/2.bScopeCanvas/ScopeCanvas.png)
 ----
 
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
