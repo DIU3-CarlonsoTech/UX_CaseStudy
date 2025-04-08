@@ -151,7 +151,7 @@ El proyecto consiste en el desarrollo de una plataforma digital que mejore la ex
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 Task Analisis
-![](P2/2.C TaskAnalisis/taskAnalisis.png)
+![](P2/3.cTaskAnalisis/taskAnalisis.png)
 
 
 ### 2.c IA: Sitemap + Labelling 
