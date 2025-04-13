@@ -170,6 +170,9 @@ Término | Significado
 | ------------- | -------
   Login  | acceder a plataforma
 
+  ![](P2/2.cSitemap/labelling.png)
+
+
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
