@@ -161,7 +161,10 @@ El proyecto consiste en el desarrollo de una plataforma digital que mejore la ex
 ![Método UX](img/labelling.png) 
 ----
 
+
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+
+![](P2/2.cSitemap/sitemap.png)
 
 Término | Significado     
 | ------------- | -------
