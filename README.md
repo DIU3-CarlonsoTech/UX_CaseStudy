@@ -149,6 +149,9 @@ El proyecto consiste en el desarrollo de una plataforma digital que mejore la ex
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+![](P2/2.bTaskAnalysis/catalogo.png)
+![](P2/2.bTaskAnalysis/subastas.png)
+![](P2/2.bTaskAnalysis/cuenta.png)
 
 
 ![](P2/2.bScopeCanvas/taskAnalisis.png)
