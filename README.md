@@ -171,8 +171,11 @@ Término | Significado
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
-
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+![](P2/2.dWireFrames/login.png)
+![](P2/2.dWireFrames/catalogo_subastas.png)
+![](P2/2.dWireFrames/subasta.png)
+![](P2/2.dWireFrames/Formulario.png)
+>>> Hecho con Figma
 
 <br>
 
