@@ -166,11 +166,7 @@ El proyecto consiste en el desarrollo de una plataforma digital que mejore la ex
 
 ![](P2/2.cSitemap/sitemap.png)
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
-
-  ![](P2/2.cSitemap/labelling.png)
+![](P2/2.cSitemap/labelling.png)
 
 
 
