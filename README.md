@@ -190,9 +190,9 @@ El proyecto consiste en el desarrollo de una plataforma digital que mejore la ex
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+>>> Se ha creado un moodboard visual para definir el estilo gráfico de la marca ArqueoBid, alojado en la carpeta P3/. Incluye el logotipo, paleta de colores, tipografías seleccionadas, imágenes inspiradoras y ejemplos visuales del estilo que debe reflejar la marca.
+>>> En cuanto a herramientas se han usado las proporcionadas en el figma.
+>>> Sobre el uso en redes sociales, creemos que el logo tiene suficiente carisma como para funcionar bien.
 ![](P3/3.a_Moodboard/MoodBoard.jpg)
 
 ### 3.b Landing Page
