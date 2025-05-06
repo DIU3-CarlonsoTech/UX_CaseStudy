@@ -197,7 +197,7 @@ Término | Significado
 >>> Diseño visual con una guía de estilos visual (moodboard) 
 >>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
-
+![](P3/3.a_Moodboard/MoodBoard.jpg)
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
