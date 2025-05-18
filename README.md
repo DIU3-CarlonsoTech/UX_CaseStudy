@@ -206,6 +206,28 @@ El proyecto consiste en el desarrollo de una plataforma digital que mejore la ex
 ![Método UX](img/guidelines.png) 
 ----
 
+Onboarding al abrir la app por primera vez, mostrando en 2-3 pantallas breves qué ofrece ArqueoBid.
+
+Menú de navegación (navBar adaptado a móvil) con accesos rápidos a Inicio, Subastas, Buscar y Perfil.
+
+Hero image + carrusel en la página principal, destacando piezas únicas en subasta.
+
+Buscador (Search) visible en la parte superior para filtrar piezas por nombre, época o estilo.
+
+Wizards en procesos como el pago (resumen > datos personales > método de pago > confirmación) y publicación de piezas (formulario paso a paso).
+
+Lista de artículos (Article List) con entre 5 y 7 tarjetas por categoría mostrando piezas destacadas.
+
+Detalles de ítems (Item details + actions) al seleccionar una pieza, mostrando imágenes, descripción, pujas actuales y botones para pujar o reservar.
+
+Reserva, para apartar una pieza con un sistema similar al de puja, pero con validación de disponibilidad.
+
+Formularios de entrada (Form Input) accesibles y consistentes, para registro, publicación de piezas y pujas.
+
+Carrito de compra (Shopping cart) con resumen de piezas ganadas o reservadas antes de confirmar el pago.
+
+Sección About, explicando la misión de la app, su funcionamiento y equipo detrás del proyecto.
+
 >>> Estudio de Guidelines y explicación de los Patrones IU a usar 
 >>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
@@ -213,6 +235,7 @@ El proyecto consiste en el desarrollo de una plataforma digital que mejore la ex
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
+https://www.figma.com/design/pipJeTTdaZa81VHdiyL7z9/ArqueoBid?node-id=1-47&t=ByhML2cnNpN0ll9H-0
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
