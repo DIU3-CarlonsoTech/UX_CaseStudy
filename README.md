@@ -198,7 +198,7 @@ El proyecto consiste en el desarrollo de una plataforma digital que mejore la ex
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
-
+![](P3/LandingPage.png)
 >>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
 
