@@ -383,13 +383,7 @@ En el caso de KeroReseñas, la evaluación se realizó con cuatro evaluadores: t
 
 
 
-
-
-
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
+En los mapas de calor generados para KeroReseñas se observa que la atención de los usuarios se concentra principalmente en los elementos interactivos clave, como el botón de inicio de sesión y las secciones destacadas del menú. También destacan zonas con información relevante, como los títulos de reseñas o los iconos visuales que facilitan la navegación. Sin embargo, se detectaron áreas con poca atención que podrían optimizarse para mejorar la visibilidad y usabilidad, como ciertos enlaces o botones secundarios que pasan desapercibidos durante la interacción rápida.
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
