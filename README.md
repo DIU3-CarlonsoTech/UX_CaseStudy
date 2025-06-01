@@ -394,12 +394,9 @@ En el caso de KeroReseñas, la evaluación se realizó con cuatro evaluadores: t
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
+Aqui tenemos el informe de usabilidad del caso B
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
+[Ver informe de usabilidad](P4/Usability-review-templateB.pdf)
 
 
 <br>
