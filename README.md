@@ -260,11 +260,11 @@ Descripción del Caso B:
 La propuesta del Caso B consiste en un rediseño de la web de Kerarqueo mediante la integración de un espacio interactivo de reseñas y experiencias llamado KeroReseñas, que funciona como un blog colaborativo enfocado en valoraciones reales de usuarios.
 Este sistema permite a los visitantes:
 
-    Consultar opiniones sobre productos y talleres,
+   - Consultar opiniones sobre productos y talleres,
+    
+   - Compartir experiencias tras una actividad,
 
-    Compartir experiencias tras una actividad,
-
-    Filtrar contenido según intereses personales.
+   - Filtrar contenido según intereses personales.
 
 Enlace al github del Caso-B: https://github.com/DIU3-OSCUROS/UX_CaseStudy-DIU3.OSCUROS
 
