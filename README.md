@@ -255,6 +255,19 @@ https://www.figma.com/design/pipJeTTdaZa81VHdiyL7z9/ArqueoBid?node-id=1-47&t=Byh
 ![Método UX](img/usability-testing.png)
 -----
 
+Descripción del Caso B:
+
+La propuesta del Caso B consiste en un rediseño de la web de Kerarqueo mediante la integración de un espacio interactivo de reseñas y experiencias llamado KeroReseñas, que funciona como un blog colaborativo enfocado en valoraciones reales de usuarios.
+Este sistema permite a los visitantes:
+
+    Consultar opiniones sobre productos y talleres,
+
+    Compartir experiencias tras una actividad,
+
+    Filtrar contenido según intereses personales.
+
+Enlace al github del Caso-B: https://github.com/DIU3-OSCUROS/UX_CaseStudy-DIU3.OSCUROS
+
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
