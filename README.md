@@ -1,4 +1,4 @@
-![imagen](https://github.com/user-attachments/assets/56d7e62c-ee10-4378-bafd-1bedafeda482)# DIU25
+# DIU25
 Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraft) ) 
 
 [Guiones de prácticas](GuionesPracticas/)
