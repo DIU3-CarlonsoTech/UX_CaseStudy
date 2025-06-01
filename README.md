@@ -293,21 +293,35 @@ Situaciones conflictivas esperadas:
 -----
 
 Para evaluar la usabilidad de los prototipos A y B, se ha seguido un enfoque basado en métodos UX centrados en el usuario, seleccionando técnicas cualitativas y cuantitativas complementarias. El diseño de las pruebas se ha estructurado en tres bloques: prueba A/B, test de usabilidad SUS y evaluación mediante técnicas de observación (Eye Tracking simulado).
-
 📌 Pruebas planificadas
+🔹 Test A/B
+Se presenta a los usuarios dos versiones del mismo sistema (prototipo A y prototipo B). Cada usuario interactúa únicamente con uno de ellos.
+Objetivo: Comparar la eficiencia, efectividad y satisfacción percibida entre ambos prototipos.
 
- **Test A/B**
-  Se presenta a los usuarios dos versiones del mismo sistema (prototipo A y prototipo B). Cada usuario interactúa únicamente con uno de ellos.
-  
-  Objetivo: Comparar la eficiencia, efectividad y satisfacción percibida entre ambos prototipos.
-  Tarea: Localizar una funcionalidad clave, como por ejemplo: "¿Cómo harías una reserva de actividad?"
-  Métrica observada: Tiempo en completar la tarea, errores cometidos, satisfacción (medida posteriormente con SUS).
 
- **Cuestionario SUS (System Usability Scale)**
-  Tras la interacción con el prototipo, los usuarios completan el cuestionario estandarizado SUS, compuesto por 10 ítems valorados en una escala de Likert.
+Tarea: Localizar una funcionalidad clave, como por ejemplo: "¿Cómo harías una reserva de actividad?"
 
-  Objetivo: Obtener un indicador cuantitativo de la usabilidad percibida.
-  Interpretación: Se calcula una puntuación entre 0 y 100, donde valores superiores a 68 se consideran por encima de la media.
+
+Métrica observada: Tiempo en completar la tarea, errores cometidos, satisfacción (medida posteriormente con SUS).
+
+
+🔹 Cuestionario SUS (System Usability Scale)
+Tras la interacción con el prototipo, los usuarios completan el cuestionario estandarizado SUS, compuesto por 10 ítems valorados en una escala de Likert.
+Objetivo: Obtener un indicador cuantitativo de la usabilidad percibida.
+
+
+Interpretación: Se calcula una puntuación entre 0 y 100, donde valores superiores a 68 se consideran por encima de la media.
+
+
+🔹 Observación de comportamiento visual (Eye Tracking simulado)
+Debido a la imposibilidad de usar hardware de Eye Tracking, se ha optado por una simulación mediante herramientas como Maze (5-second test) o entrevistas controladas con imágenes estáticas.
+Objetivo: Identificar las áreas de atención inicial y valorar la jerarquía visual de los elementos.
+
+
+Técnica: Se mostraron capturas durante 5 segundos y se pidió al usuario que dijera dónde miraría primero para realizar una acción determinada.
+
+
+Áreas de interés (AOI): Botón de acción principal, menú, imágenes, secciones informativas.
 
   
 **Observación de comportamiento visual (Eye Tracking simulado)**
