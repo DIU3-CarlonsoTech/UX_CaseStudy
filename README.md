@@ -328,7 +328,9 @@ Para evaluar la usabilidad de ambas plataformas, se ha utilizado el cuestionario
 
 A continuación, se muestran los resultados obtenidos en la evaluación:
 
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+![](P4/CuestionarioSUS.png)
+
+Podemos observar que ambas plataformas se perciben usables, con puntuaciones cercanas al promedio general.
 
 
 ### 4.d A/B Testing
