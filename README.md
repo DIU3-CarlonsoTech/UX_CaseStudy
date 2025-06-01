@@ -275,16 +275,46 @@ Enlace al github del Caso-B: https://github.com/DIU3-OSCUROS/UX_CaseStudy-DIU3.O
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Juan          | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| Carlos        | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| Laura         | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| David         | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
+Situaciones conflictivas esperadas:
 
+  -  Laura (Caso B) puede tener dificultades con el uso del sistema en móvil debido a su baja experiencia TIC y podría sentirse abrumada con muchas opciones interactivas.
+
+  - David (Caso B), aunque con experiencia media, evaluará racionalmente el diseño; si la navegación o filtros no están claramente jerarquizados, lo verá como un fallo de usabilidad.
+
+  - Juan y Carlos (Caso A) podrían tener problemas para expresarse verbalmente durante las pruebas, por su personalidad más reservada. Es importante que el facilitador los anime sin presionarlos.
+    
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
+Para evaluar la usabilidad de los prototipos A y B, se ha seguido un enfoque basado en métodos UX centrados en el usuario, seleccionando técnicas cualitativas y cuantitativas complementarias. El diseño de las pruebas se ha estructurado en tres bloques: prueba A/B, test de usabilidad SUS y evaluación mediante técnicas de observación (Eye Tracking simulado).
+📌 Pruebas planificadas
+
+  Test A/B
+  Se presenta a los usuarios dos versiones del mismo sistema (prototipo A y prototipo B). Cada usuario interactúa únicamente con uno de ellos.
+  Objetivo: Comparar la eficiencia, efectividad y satisfacción percibida entre ambos prototipos.
+  Tarea: Localizar una funcionalidad clave, como por ejemplo: "¿Cómo harías una reserva de actividad?"
+  Métrica observada: Tiempo en completar la tarea, errores cometidos, satisfacción (medida posteriormente con SUS).
+
+  Cuestionario SUS (System Usability Scale)
+  Tras la interacción con el prototipo, los usuarios completan el cuestionario estandarizado SUS, compuesto por 10 ítems valorados en una escala de Likert.
+
+  Objetivo: Obtener un indicador cuantitativo de la usabilidad percibida.
+  Interpretación: Se calcula una puntuación entre 0 y 100, donde valores superiores a 68 se consideran por encima de la media.
+
+  
+  Observación de comportamiento visual (Eye Tracking simulado)
+  Debido a la imposibilidad de usar hardware de Eye Tracking, se ha optado por una simulación mediante herramientas como Maze (5-second test) o entrevistas controladas con imágenes estáticas.
+
+  Objetivo: Identificar las áreas de atención inicial y valorar la jerarquía visual de los elementos.
+  Técnica: Se mostraron capturas durante 5 segundos y se pidió al usuario que dijera dónde miraría primero para realizar una acción determinada.  
+  Áreas de interés (AOI): Botón de acción principal, menú, imágenes, secciones informativas.
+        
 >>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 
 
@@ -296,6 +326,8 @@ Enlace al github del Caso-B: https://github.com/DIU3-OSCUROS/UX_CaseStudy-DIU3.O
 >>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>>
+>>> 
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
 
