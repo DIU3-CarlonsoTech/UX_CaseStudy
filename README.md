@@ -336,6 +336,27 @@ Podemos observar que ambas plataformas se perciben usables, con puntuaciones cer
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
+Técnica de evaluación UX
+
+Se llevó a cabo una prueba A/B utilizando la herramienta Maze con el objetivo de comparar la usabilidad entre dos versiones de una interfaz:
+
+   Versión A: Propuesta propia, ArqueoBid
+
+   Versión B: Diseño alternativo desarrollado por el grupo DIU2 - OSCUROS (KeroReseñas)
+
+Cada una de las variantes fue probada por un pequeño grupo de usuarios (2 o 3 personas), quienes realizaron una serie de tareas idénticas en ambos prototipos. Al finalizar, se les pidió que valoraran su experiencia a través del cuestionario SUS (System Usability Scale) y una escala subjetiva de navegación.
+
+Los resultados obtenidos se resumen en la siguiente tabla:
+Tarea	Versión A (ArqueoBid)	Versión B (KeroReseñas)
+1. Inicio de sesión	100 % completada – 2.3 s – SUS 94	100 % completada – 3.4 s – SUS 89
+2. Acceso a sección de talleres o catas	100 % completada – 3.2 s	100 % completada – 4.0 s
+3. Valoración de navegación (escala 1–10)	9.8 / 10	8.7 / 10
+
+Conclusión general:
+Ambos diseños proporcionan una experiencia satisfactoria y sin obstáculos para el usuario. No obstante, la versión A obtuvo tiempos de interacción ligeramente más bajos y mejores puntuaciones de usabilidad, lo que sugiere una experiencia más ágil e intuitiva.
+
+Además de los datos cuantitativos, se recogieron algunos comentarios cualitativos por parte de los participantes, destacando en la versión A una mayor claridad en la interfaz y una navegación más directa.
+
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
