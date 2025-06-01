@@ -328,7 +328,7 @@ Para evaluar la usabilidad de ambas plataformas, se ha utilizado el cuestionario
 
 A continuación, se muestran los resultados obtenidos en la evaluación:
 
-![](P4/CuestionarioSUS.png)
+![](P4/CuestionarioSUS)
 
 Podemos observar que ambas plataformas se perciben usables, con puntuaciones cercanas al promedio general.
 
