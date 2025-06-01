@@ -390,7 +390,7 @@ En los mapas de calor generados para KeroReseñas se observa que la atención de
 -----
 Aqui tenemos el informe de usabilidad del caso B
 
-[Ver informe de usabilidad](P4/Usability-review-templateB.pdf)
+[Ver informe de usabilidad](P4/P4_UsabReport_KeroReseñas_doneby_DIU3_CarlonsoTech.pdf)
 
 
 <br>
