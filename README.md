@@ -1,4 +1,4 @@
-# DIU25
+![imagen](https://github.com/user-attachments/assets/56d7e62c-ee10-4378-bafd-1bedafeda482)# DIU25
 Prácticas Diseño Interfaces de Usuario (Tema: Reciclaje y artesanía (handcraft) ) 
 
 [Guiones de prácticas](GuionesPracticas/)
@@ -367,9 +367,25 @@ KeroReseñas, aunque algo más compleja, ofrece una navegación más completa co
 ----
 
 >>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Para aplicar técnicas de Eye Tracking en la evaluación de nuestro prototipo KeroReseñas, utilizamos la herramienta gratuita GazeRecorder, que permite generar mapas de calor a partir de la interacción visual de los usuarios con imágenes estáticas de la interfaz.
+
+El experimento consistió en mostrar a los participantes imágenes clave del prototipo durante 5 segundos, acompañadas de tareas sencillas, como por ejemplo: "localiza el botón de inicio de sesión" o "busca la sección de talleres". Esto nos permitió analizar cómo los usuarios dirigían su atención visual para completar dichas tareas.
+
+En el caso de KeroReseñas, la evaluación se realizó con cuatro evaluadores: tres usuarios (dos usuarios reales y un experto del equipo de diseño) y un cuarto evaluador, también experto, que aportó una visión técnica adicional. Cada evaluador generó mapas de calor que evidenciaron diferencias notables en los focos de atención y en la distribución visual sobre la interfaz, proporcionando información valiosa para identificar áreas de mejora y optimizar la experiencia de usuario.
+
+![experimento](P4/EyeTracking1.png) 
+
+![experimento](P4/EyeTracking2.png) 
+
+![experimento](P4/EyeTracking3.png) 
+
+![experimento](P4/EyeTracking4.png) 
 
 
-![experimento](img/experimentoET.png)  
+
+
+
+
 >>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
 
 >>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
