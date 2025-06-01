@@ -324,11 +324,10 @@ Tras la interacción con el prototipo, los usuarios completan el cuestionario es
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>>
->>> 
+Para evaluar la usabilidad de ambas plataformas, se ha utilizado el cuestionario SUS (System Usability Scale). Este consiste en 10 ítems breves que recogen la percepción del usuario respecto a la facilidad de uso del sistema. Cada pregunta se puntúa en una escala del 1 al 10, donde el valor refleja el nivel de acuerdo o desacuerdo con la afirmación planteada. En el caso de las afirmaciones formuladas de forma negativa, una puntuación baja indica mayor conformidad, mientras que en las positivas ocurre lo contrario.
+
+A continuación, se muestran los resultados obtenidos en la evaluación:
+
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
 
 
